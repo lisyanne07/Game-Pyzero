@@ -1,2 +1,2 @@
 # Game-Pyzero
-Jogo utilizando biblioteca pyzero, e pyrun.. gênero Plataformer.
+Jogo utilizando biblioteca pyzero, e pgzrun.. gênero Plataformer.
