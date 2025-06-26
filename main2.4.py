@@ -131,7 +131,7 @@ class Enemy:
             anim['index'] = (anim['index'] + 1) % len(anim['images'])
             self.actor.image = anim['images'][anim['index']]
     
-    def update(self, dt):  # Adicione 'self' como primeiro parâmetro
+    def update(self, dt):
         # Movimento da direita para esquerda
         self.x -= self.speed
         self.actor.pos = (self.x, self.y)
